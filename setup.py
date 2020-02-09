@@ -4,7 +4,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="aws-lambda-cors",
+    name="aws_lambda_cors",
     version="0.0.2",
     author="Adrian Pina",
     author_email="adrian@quesadillalab.mx",
