@@ -1,5 +1,5 @@
 import json
-from utils.headers import HEADERS
+from aws_lambda_cors.utils.headers import HEADERS
 
 
 class AwsLambdaResponse:
