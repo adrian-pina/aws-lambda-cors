@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name="aws-lambda-cors",
-    version="0.0.1",
+    version="0.0.2",
     author="Adrian Pina",
     author_email="adrian@quesadillalab.mx",
     description="An AWS Lambda response package utility",
